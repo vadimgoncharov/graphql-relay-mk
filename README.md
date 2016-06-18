@@ -43,11 +43,10 @@
       * [x] Object Identification
       * [x] Connection
       * [x] Mutations
-* [ ] Third Part (15:00 - 16:15)
-  * [ ] List
-  * [ ] Pagination
-  * [ ] Load Old
-  * [ ] Load New
+* [x] Third Part (15:00 - 16:15)
+  * [x] List
+  * [x] Pagination
+  * [x] Load Old
   * [ ] Comments
     * [ ] Optimistic Updates
   * [ ] Likes
