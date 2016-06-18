@@ -56,3 +56,28 @@
   * [ ] State Synchronization
 * [ ] Last Part (16:30 - 17:45)
  
+## Example
+http://graphql-swapi.parseapp.com/
+
+```
+{
+  allFilms {
+    edges {
+      node {
+        title
+        ...FilmView
+      }
+    }
+  }
+}
+
+fragment FilmView on Film {
+  starshipConnection {
+    edges {
+      node {
+        name
+      }
+    }
+  }
+}
+```
