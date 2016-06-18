@@ -1,4 +1,5 @@
-# Plan
+# React GraphQL and Relay MK
+## Plan
 
 * [ ] First Part (11:00 - 12:15)
   * [ ] GraphQL
