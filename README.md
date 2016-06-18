@@ -1,7 +1,7 @@
 # React GraphQL and Relay MK
 ## Plan
 
-* [ ] First Part (11:00 - 12:15)
+* [x] First Part (11:00 - 12:15)
   * [x] GraphQL
     * [x] Queries
     * [x] Type System
@@ -29,20 +29,20 @@
     * [x] Interfaces
     * [x] Directives
     * [x] Deprecations
-* [ ] Second Part (12:30 - 13:45)
-  * [ ] Relay
-    * [ ] Containers
-      * [ ] Relay.QL
-    * [ ] Babel Relay Plugin
-    * [ ] RootContainer / Renderer
-    * [ ] Route
-    * [ ] Ready State
-    * [ ] Mutations
-    * [ ] Network Layer
-    * [ ] GraphQL Relay Specification
-      * [ ] Object Identification
-      * [ ] Connection
-      * [ ] Mutations
+* [x] Second Part (12:30 - 13:45)
+  * [x] Relay
+    * [x] Containers
+      * [x] Relay.QL
+    * [x] Babel Relay Plugin
+    * [x] RootContainer / Renderer
+    * [x] Route
+    * [x] Ready State
+    * [x] Mutations
+    * [x] Network Layer
+    * [x] GraphQL Relay Specification
+      * [x] Object Identification
+      * [x] Connection
+      * [x] Mutations
 * [ ] Third Part (15:00 - 16:15)
   * [ ] List
   * [ ] Pagination
